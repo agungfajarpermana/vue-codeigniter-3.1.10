@@ -8,14 +8,14 @@ this is the application of the vue js and codeiginter-3.1.10 methods that are in
 Installation
 ************
 
-###################
-first
-###################
+************
+First Step
+************
 
 npm install
 
-###################
-second
-###################
+************
+Second Step
+************
 
 npm run watch

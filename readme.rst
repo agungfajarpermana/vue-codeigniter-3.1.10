@@ -10,6 +10,8 @@ Installation
 
 run npm install
 
-then change the base url in the application / config / config.php folder
+then change the base url in 
+application / config / config.php folder
+change the location of your url base
 
 npm run watch

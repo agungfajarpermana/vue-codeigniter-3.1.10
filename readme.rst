@@ -8,14 +8,8 @@ this is the application of the vue js and codeiginter-3.1.10 methods that are in
 Installation
 ************
 
-************
-First Step
-************
+run npm install
 
-npm install
-
-************
-Second Step
-************
+then change the base url in the application / config / config.php folder
 
 npm run watch
